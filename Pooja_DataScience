@@ -12,7 +12,7 @@ Bias-Variance
 Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
 ```
 
-# Data Analytics
+# Data Analytics Topics
 ```
 Estimation Techniques
 Descriptive Statistics
@@ -23,5 +23,4 @@ Statistical Biases
 Null Value Estimation
 Hypothesis Formulation
 Hypothesis Testing Techniques
-
 ```
